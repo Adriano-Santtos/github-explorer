@@ -1,3 +1,9 @@
+ <div align="center" id="top"> 
+  <a> English <img src="https://flagpedia.net/data/flags/w580/us.png" width=20px/></a>
+  - <a href="README-pt.md"><img src="https://flagpedia.net/data/flags/w580/br.png" width=20px/> Portuguese </a>
+</div>
+&#xa0;
+
 <div align="center" id="top"> 
   <img src="./src/assets/logo.svg" alt="Github Explorer" height=60 />
 
